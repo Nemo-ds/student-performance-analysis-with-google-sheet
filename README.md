@@ -42,6 +42,7 @@ Summary Table showing % of High Scores per Factor
 This project is based on a fictional dataset of 5,000 students created for educational analysis purposes.
 
 📢 Highlights
+
 "Good Sleep" shows the strongest link to high academic performance
 
 Stress affects scores in complex ways — both low and high stress levels relate to better scores
