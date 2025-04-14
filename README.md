@@ -32,6 +32,9 @@ Study Hours by Department and Score Category
 Summary Table showing % of High Scores per Factor
 
 📊 Example Visualization
+
+![Sample Chart](./Sleep Quality vs Score Category.png)
+
 (Sleep Quality vs Score Category)
 
 📌 Files
