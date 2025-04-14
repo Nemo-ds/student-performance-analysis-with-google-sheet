@@ -32,7 +32,7 @@ Summary Table showing % of High Scores per Factor
 (Sleep Quality vs Score Category)
 
 📌 Files
-📄 Project Summary – PDF
+📄 Project Summary – PDF(./Student_Performance_Summary.pdf)
 
 📊 Google Sheets (View-only)
 🔗 [Click here to view the Google Sheets file (read-only)](https://docs.google.com/spreadsheets/d/1n372in6ctYEiYrRM1ViH4pdKvQxhd38I02yqBKSrz6s/edit?usp=sharing)
@@ -40,6 +40,7 @@ Summary Table showing % of High Scores per Factor
 
 🗂️ Data Source
 This project is based on a fictional dataset of 5,000 students created for educational analysis purposes.
+📂 [Source Data – CSV](./source_data.csv)
 
 📢 Highlights
 
