@@ -2,6 +2,7 @@
 📊 A data analysis project exploring how lifestyle, academic, and socioeconomic factors affect student performance using Google Sheets.
 
 🌟 Project Objectives
+
 Analyze the impact of sleep quality, stress level, extracurricular activities, and more on academic performance
 
 Explore performance differences by department, parental education, income level, and study habits
@@ -9,6 +10,7 @@ Explore performance differences by department, parental education, income level,
 Use Google Sheets functions and charts to visualize relationships and draw insights
 
 🛠 Tools & Techniques
+
 Google Sheets: Pivot tables, conditional formatting, charts, COUNTIFS/IFS formulas, filters
 
 Data Cleaning: Standardized labels, removed unnecessary columns, validated entries
@@ -18,6 +20,7 @@ Charts: Pie charts, stacked bar charts, summary tables
 Functions: COUNTIFS, IFS, AVERAGEIF, COUNTBLANK, COUNTIF, FILTER
 
 📈 Key Visualizations
+
 Sleep Quality vs Academic Score
 
 Stress Levels and Score Distribution
